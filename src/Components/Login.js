@@ -31,7 +31,7 @@ const Login = () => {
                     <div className="form-group w-100 m-2">
                                 <input
                                     type="email"
-                                    class="form-control"
+                                    className="form-control"
                                     name="email"
                                     value={values.email}
                                     id="exampleInputEmail1"
